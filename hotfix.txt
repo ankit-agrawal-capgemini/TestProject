@@ -1,2 +1,4 @@
 nothing at start
 Applying hot fix 1
+Applying hot fix 2
+
